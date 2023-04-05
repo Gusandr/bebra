@@ -1,0 +1,5 @@
+name: Bebra
+version: '${project.version}'
+main: me.gusandr.bebra.bebra.Bebra
+api-version: 1.19
+authors: [ Gusandr ]
